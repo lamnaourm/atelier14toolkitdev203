@@ -5,3 +5,20 @@
   align-items: center;
   height: 100vh;
 }
+
+.barre {
+  text-decoration: line-through;
+}
+
+.tache {
+  display: flex;
+  justify-content: space-between;
+  gap: 130px;
+  align-items: center;
+}
+
+.content {
+  background-color: whitesmoke;
+  padding: 20px;
+  border-radius: 10px;
+}
